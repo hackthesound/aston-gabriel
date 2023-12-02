@@ -1,9 +1,12 @@
 p{
   color:blue;
-  float:center;
+  float:right;
 }
 h2{
   color:teal;
 }
 body{
   font-family:Century Gothic
+img{
+   float:right;
+}
