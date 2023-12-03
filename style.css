@@ -1,13 +1,12 @@
 p{
-    color:wheat;
-    float:right;
-  }
-  h2{
-    color: whitesmoke;
-  }
-  body{
-    background-color: darkslategray;
-    font-family: 'Source Code Pro', monospace;
-  img{
-     float:right;
-  }
+  color:wheat;
+  float:right;
+}
+h2{
+  color:wheat;
+}
+body{
+  font-family: 'Source Code Pro', monospace;
+img{
+   float:right;
+}
