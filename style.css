@@ -10,6 +10,7 @@ h1{
   }
 body{
   font-family: 'Source Code Pro', monospace;
+  background-color: darkslategray;
 img{
    float:right;
 }
